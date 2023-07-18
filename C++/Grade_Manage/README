@@ -1,0 +1,3 @@
+Project that tests differnet classes of managing grades and comparing them. 
+Files gradebook.cpp and grade.cpp are created by me and all the rest are given to me as testers.
+The header files explains what each does.
